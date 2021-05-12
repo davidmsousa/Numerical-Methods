@@ -20,9 +20,9 @@
 - Interpolação via resolução de sistemas lineares.
 - Interpolação polinomial via forma de Lagrange.
 - Interpolação polinomial via forma de Newton.
-- Interpolação inversa.
 
 ### Integração Numérica:
 - Regra dos trapézios (sem e com repetição).
-- Regra 1/3 de Simpson (sem e com repetição).
+- Regra 1/3 de Simpson com repetição.
+- Regra 1/3 de Simpson sem repetição.
 - Regra 3/8 de Simpson.
